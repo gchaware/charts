@@ -11,7 +11,7 @@ entries:
     icon: https://raw.githubusercontent.com/portworx/helm/master/doc/media/px-logo.png
     name: cluster-essentials
     urls:
-    - cluster-essentials-2.1.1.tgz
+    - charts/cluster-essentials-2.1.1.tgz
     version: 2.1.1
   px-central:
   - apiVersion: v1
@@ -33,6 +33,6 @@ entries:
     sources:
     - https://github.com/portworx/helm/tree/master/charts/px-central
     urls:
-    - px-central-2.1.1.tgz
+    - charts/px-central-2.1.1.tgz
     version: 2.1.1
 generated: "2022-03-19T22:21:41.197449141+05:30"
