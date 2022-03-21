@@ -3,7 +3,7 @@ entries:
   cluster-essentials:
   - apiVersion: v1
     appVersion: 2.1.1
-    created: "2022-03-21T17:20:53.139492703+05:30"
+    created: "2022-03-21T17:38:32.098643779+05:30"
     description: A Helm chart for installing Cluster level resources on Kubernetes
       cluster
     digest: 1c497a9c75afd28e774ad1c12a12bfbc773149df797663a29fe9a597ab480f94
@@ -16,7 +16,7 @@ entries:
   px-central:
   - apiVersion: v1
     appVersion: 2.1.1
-    created: "2022-03-21T17:20:53.144076017+05:30"
+    created: "2022-03-21T17:38:32.103448402+05:30"
     description: A Helm chart for installing PX-Central on Kubernetes and Openshift
     digest: a6e535031c1e4a94e0cee6b8828254925e7c0a3bdbcaa1a908a442ffd04c2f02
     home: https://portworx.com/
@@ -35,4 +35,4 @@ entries:
     urls:
     - charts/px-central-2.1.1.tgz
     version: 2.1.1
-generated: "2022-03-21T17:20:53.139141516+05:30"
+generated: "2022-03-21T17:38:32.098372377+05:30"
